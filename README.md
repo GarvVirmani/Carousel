@@ -50,7 +50,7 @@ let id = setInterval(function () {
   
 }, 2000);
 
-## Video
+## 📷 Video
 
 https://github.com/user-attachments/assets/fb6223d7-7f1b-4433-be5e-38ffd162b401
 
